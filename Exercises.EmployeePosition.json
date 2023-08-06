@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64cbce3e4f5abd92e5937c4a"
+  },
+  "EmpID": 1,
+  "EmpPosition": "Manager",
+  "DateOfJoining": "01/05/2022",
+  "Salary": 500000
+},
+{
+  "_id": {
+    "$oid": "64cbce3e4f5abd92e5937c4b"
+  },
+  "EmpID": 2,
+  "EmpPosition": "Executive",
+  "DateOfJoining": "02/05/2022",
+  "Salary": 75000
+},
+{
+  "_id": {
+    "$oid": "64cbce3e4f5abd92e5937c4c"
+  },
+  "EmpID": 3,
+  "EmpPosition": "Manager",
+  "DateOfJoining": "01/05/2022",
+  "Salary": 90000
+},
+{
+  "_id": {
+    "$oid": "64cbce3e4f5abd92e5937c4d"
+  },
+  "EmpID": 2,
+  "EmpPosition": "Lead",
+  "DateOfJoining": "02/05/2022",
+  "Salary": 85000
+},
+{
+  "_id": {
+    "$oid": "64cbce3e4f5abd92e5937c4e"
+  },
+  "EmpID": 1,
+  "EmpPosition": "Executive",
+  "DateOfJoining": "01/05/2022",
+  "Salary": 300000
+}]
